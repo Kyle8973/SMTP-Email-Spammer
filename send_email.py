@@ -14,7 +14,7 @@ import random # Used To Generate Random Subject & Body Content
 def send_spam():
     # Email Server Configuration
     smtp_server = "smtp.gmail.com"  # SMTP Server Address
-    port = 587  # Port for Gmail TLS
+    port = 587  # Port For Gmail TLS
     sender_email = "Your_Email@gmail.com"  # Your Email
     receiver_email = "Some_Nerd@email.com"  # The Email of the Person You Want To Spam
     password = "App Password"  # App Password --> https://myaccount.google.com/apppasswords
