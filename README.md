@@ -47,4 +47,6 @@ This Project Is Licensed Under The MIT License - See The [LICENSE](LICENSE) File
 
 ## Legal Disclaimer:
 
-**Warning:** The Use Of This Script For Spamming Or Any Illegal Activities Is Strictly Prohibited. Sending Unsolicited Emails Can Lead To Severe Legal Consequences And Damage To Your Reputation. This Script Is Intended For Educational Purposes Only. I (Kyle8973) Do Not Condone, Support, Or Take Responsibility For Any Malicious Or Unethical Use Of This Tool. Always Ensure Compliance With Local Laws And Regulations When Using Or Modifying This Script.
+**Warning:** The Use Of This Script For Spamming Or Any Illegal Activities Is Strictly Prohibited. Sending Unsolicited Emails Can Lead To Severe Legal Consequences And Damage To Your Reputation. This Script Is Intended For Educational Purposes Only. I (Kyle8973) Do Not Condone, Support, Or Take Responsibility For Any Malicious Or Unethical Use Of This Tool. Always Ensure Compliance With Local Laws And Regulations When Using Or Modifying This Script
+
+Refer To The [Code Of Conduct](CODE_OF_CONDUCT.md) For More Information
